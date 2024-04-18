@@ -9,6 +9,10 @@
 4. **Language-use:** React Native
 5. **Platform:** Android & IOS
 
+# About US
+1. **Team-Name: Webcentic**
+2. **Members:** Harnoor-Dhindsa, Bhupinder-Singh, Kowarjit-Singh-Chahal, Gourav-Sharma
+
 # Installation
 To run this app clone the repository then open the repository in terminal
 

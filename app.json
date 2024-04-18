@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Name-of-your-project",
-    "slug": "Name-of-your-project",
+    "name": "CalcFlow",
+    "slug": "CalcFlow",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
